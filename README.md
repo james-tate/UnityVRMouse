@@ -1,6 +1,8 @@
 # UnityVRMouse
-# Unity Oculus Rift Mouse
+
 Adds a 3D mouse (using mouse control inputs) to a Unity scene when using the Oculus Rift
+
+# Unity Oculus Rift Mouse
 
 The mouse object can be replaced with any GameObject.
 
